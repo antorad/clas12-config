@@ -133,4 +133,5 @@
 
 	<!--  BST shield shifted downstream by 15 mm to align to scattering chamber-->
 	<detector name="bstShield"> <position x="0*cm"     y="0*cm"     z="1.50*cm"  />  </detector>
+
 </gcard>
